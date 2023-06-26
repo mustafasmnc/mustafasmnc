@@ -76,9 +76,7 @@ const mustafa = {
 	
 ### Contact 📱 :
 <p align='center'>
-`
 mustafasmnc@gmail.com
-`
 <br>
 https://www.linkedin.com/in/mustafasamanci
 </p>
