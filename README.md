@@ -35,7 +35,6 @@ const mustafa = {
 <br>
 
 ### Programming Languages 👨‍💻 :
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhlZGtpM2txY3R1d2V2emd4N3R0MTExZHBxdXZvY3N2aTNnNm80dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PnMbx8Qc6h9hQgWj75/giphy.gif" width=30%>
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
@@ -47,7 +46,6 @@ const mustafa = {
 	
 ### Web Development 🌐 :
 <br>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ybW40Z3lhd2xiaGhzdzJjZThyMzlyZjhvajVhaDZwa280YnY2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xw16pzyVg8Q0cRgh4N/giphy.gif" width=30%>
 <p align='center'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -60,28 +58,24 @@ const mustafa = {
 
 ### Database ⚡ :
 <br>
-<tr>
-<td width=70%>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2eWQwNnN4YW1tdGtwczhqdmlrNDVqcWJlNGVobDM0MHc1d2JkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.gif" width=30%>
-</td>
+<p align='center'>
 <td width=30%>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;
-</td>
-</tr>
+</p>
 <br>
 
 ### Mobile Frameworks 📱 :
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZzbTA3Nm0wM3I0Z2JweDB1eHpnMzA3dDl2Y2R0ZmNuc2VwM2t3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPsfOCbCRkXjCmpzK9/giphy.gif" width=30%>
+<br>
 <p align='center'>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 	
 ### Contact 📱 :
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzduenBjYnZjeXZxaHQ5cXFnNDNkaTk5cnRuMHR1NWZlNWl2Zjh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cm9zPowdP1XdBOAPhu/giphy.gif" width=30%>
+<br>
 <p align='center'>
 <a href='mustafasmnc@gmail.com'>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;
