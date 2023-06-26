@@ -60,13 +60,17 @@ const mustafa = {
 
 ### Database ⚡ :
 <br>
+<tr>
+<td width=70%>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2eWQwNnN4YW1tdGtwczhqdmlrNDVqcWJlNGVobDM0MHc1d2JkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.gif" width=30%>
-<p align='center'>
+</td>
+<td width=30%>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;
-</p>
+</td>
+</tr>
 <br>
 
 ### Mobile Frameworks 📱 :
