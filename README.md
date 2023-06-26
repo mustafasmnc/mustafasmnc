@@ -76,9 +76,11 @@ const mustafa = {
 	
 ### Contact 📱 :
 <p align='center'>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> mustafasmnc@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+`<h2>mustafasmnc@gmail.com</h2>`
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [My LinkedIn](https://www.linkedin.com/in/mustafasamanci)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[My LinkedIn](https://www.linkedin.com/in/mustafasamanci)
 </p>
 <br>
 	
