@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"
 </p>
+<p align="center">
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
-
+</p>
+	
 <h1 align="center">I'm Mustafa
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ6M2p3ODNzdzhxaXZpZ2wydjE1Yjc5bjVvcnY3enpzZ2p0a2pxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5o2ltcX718cM0Rgwk/giphy.gif" width="35"></h1>
 <p align="center">
@@ -24,9 +26,9 @@ const mustafa = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<p align='center'>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
+
 <br>
 <hr>
 <p align="center">
@@ -45,7 +47,6 @@ const mustafa = {
 <br>
 	
 ### Web Development 🌐 :
-<br>
 <p align='center'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -57,7 +58,6 @@ const mustafa = {
 <br>
 
 ### Database ⚡ :
-<br>
 <p align='center'>
 <td width=30%>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
@@ -68,18 +68,15 @@ const mustafa = {
 <br>
 
 ### Mobile Frameworks 📱 :
-<br>
 <p align='center'>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 	
 ### Contact 📱 :
-<br>
 <p align='center'>
-<a href='mustafasmnc@gmail.com'>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;&nbsp;
-</a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> mustafasmnc@gmail.com
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [My LinkedIn] (https://www.linkedin.com/in/mustafasamanci)
 </p>
 <br>
 	
