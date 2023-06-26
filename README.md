@@ -44,18 +44,22 @@ const mustafa = {
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
+	
 ### Web Development 🌐 :
+<br>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ybW40Z3lhd2xiaGhzdzJjZThyMzlyZjhvajVhaDZwa280YnY2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xw16pzyVg8Q0cRgh4N/giphy.gif" width=30%>
 <p align='center'>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <br>
+
 ### Database ⚡ :
+<br>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2eWQwNnN4YW1tdGtwczhqdmlrNDVqcWJlNGVobDM0MHc1d2JkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.gif" width=30%>
 <p align='center'>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
@@ -64,13 +68,14 @@ const mustafa = {
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
+
 ### Mobile Frameworks 📱 :
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZzbTA3Nm0wM3I0Z2JweDB1eHpnMzA3dDl2Y2R0ZmNuc2VwM2t3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPsfOCbCRkXjCmpzK9/giphy.gif" width=30%>
 <p align='center'>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
-<br>
+	
 ### Contact 📱 :
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzduenBjYnZjeXZxaHQ5cXFnNDNkaTk5cnRuMHR1NWZlNWl2Zjh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cm9zPowdP1XdBOAPhu/giphy.gif" width=30%>
 <p align='center'>
@@ -79,16 +84,19 @@ const mustafa = {
 </a>
 </p>
 <br>
-<br>
+	
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR1OTRjZXlxeDFkaDRvbzcxdWdnbmtpenE2bDR3OXdicmNweW1pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zv7eH91tPkwRZmayVp/giphy.gif" width="100">
 </p>
+
 <hr>
+
 ### Just a snake eating my contributions 🐍
 <p align='center'>
 <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
 </p>
 <br>
+
 <hr>
 <h2 align='center'>Thank You🧐</h2>
 <p align="center">
