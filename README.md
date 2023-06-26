@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"
 </p>
 	
-<p align="center">
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
-</p>
 	
 <h1 align="center">I'm Mustafa
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ6M2p3ODNzdzhxaXZpZ2wydjE1Yjc5bjVvcnY3enpzZ2p0a2pxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t5o2ltcX718cM0Rgwk/giphy.gif" width="35"></h1>
@@ -80,7 +78,7 @@ const mustafa = {
 <p align='center'>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> mustafasmnc@gmail.com
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [My LinkedIn] (https://www.linkedin.com/in/mustafasamanci)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [My LinkedIn](https://www.linkedin.com/in/mustafasamanci)
 </p>
 <br>
 	
