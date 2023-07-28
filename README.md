@@ -89,7 +89,7 @@ https://www.linkedin.com/in/mustafasamanci
 
 ### Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 <br>
 
