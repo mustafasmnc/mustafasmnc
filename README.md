@@ -99,3 +99,4 @@ https://www.linkedin.com/in/mustafasamanci
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
 <br>
+<a href="myapp://example">Uygulamayı Aç</a>
